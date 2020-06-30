@@ -1,0 +1,22 @@
+{
+    "name": "archie18/symfony-intl-fix",
+    "description": "Provides the php 74 fixes for 3 vendor's files",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jorge Cares",
+            "email": "reaperjc@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "files": [
+            "./Parser.php",
+            "./StandardPositionFormatter.php",
+            "./DefaultValueBinder.php"
+        ]
+    }
+}
