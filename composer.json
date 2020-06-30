@@ -1,5 +1,5 @@
 {
-    "name": "archie18/symfony-intl-fix",
+    "name": "archie18/symfony-php74-fixes",
     "description": "Provides the php 74 fixes for 3 vendor's files",
     "type": "library",
     "license": "MIT",
