@@ -16,6 +16,7 @@
         "files": [
             "./Parser.php",
             "./StandardPositionFormatter.php",
+            "./UnitOfWork.php",
             "./DefaultValueBinder.php"
         ]
     }
